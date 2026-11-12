@@ -21,8 +21,7 @@ Security-focused builder. I work where offensive security meets applied AI and e
 - Small commits, clear subjects, no secrets in history.
 
 ### Reach me
-- GitHub: you're here
-- *(add: LinkedIn / site / email you want public)*
+- **GitHub** — open an issue or discussion on any of my repos
 
 <!--
   Optional add-ons once repos are cleaned up:
