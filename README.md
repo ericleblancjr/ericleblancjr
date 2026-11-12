@@ -22,6 +22,7 @@ Security-focused builder. I work where offensive security meets applied AI and e
 
 ### Reach me
 - **GitHub** — open an issue or discussion on any of my repos
+- **Email** — laments.pros_09@icloud.com
 
 <!--
   Optional add-ons once repos are cleaned up:
